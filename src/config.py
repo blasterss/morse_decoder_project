@@ -12,7 +12,7 @@ SUBMISSION_PATH = SUBMISSION_DIR / SUBMISSION_NAME
 
 TRAIN_DATA_PATH = PROJECT_ROOT / "data" / "train.csv"
 TEST_DATA_PATH = PROJECT_ROOT / "data" / "test.csv"
-SUB_DATA_PATH = PROJECT_ROOT / "data" / "submission.csv"
+SUB_DATA_PATH = PROJECT_ROOT / "data" / "sample_submission.csv"
 
 PREP_DATA_NAME = "preprocess_data_new_v2.csv"
 PREP_DATA_PATH = PROJECT_ROOT / "prep_data" / PREP_DATA_NAME
