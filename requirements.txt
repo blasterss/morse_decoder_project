@@ -1,0 +1,8 @@
+numpy==1.23.0
+pandas==2.2.3
+librosa==0.10.2.post1
+torch==2.4.1+cu124
+matplotlib==3.5.2
+seaborn==0.12.1
+tqdm==4.66.5
+Levenshtein==0.27.1
